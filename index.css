@@ -1,0 +1,15 @@
+.small {
+    width: 16px;
+    height: 16px;
+    border: 1px solid black;
+    
+}
+
+#container {
+    height: 522px;
+    width: 522px;
+    border: 2px solid black;
+    display: grid;  
+    
+}
+
